@@ -2,7 +2,7 @@
 
 Olá!
 
-Neste repositório você encontrará a análise e predição de reviews de um dataset de jogos da Amazon. Esse projeto foi proposto para a área de NLP (processamento de linguagem natural) dentro do Turing USP, grupo de extensão universitária da Universidade de São Paulo. 
+Neste repositório você encontrará a análise, limpeza e predição de reviews (análise de sentimento como positivo ou negativo) de um dataset de jogos da Amazon. Esse projeto foi proposto para a área de NLP (processamento de linguagem natural) dentro do Turing USP, grupo de extensão universitária da Universidade de São Paulo. 
 
 Os passos seguidos no projeto foram:
   1. Limpeza dos dados
